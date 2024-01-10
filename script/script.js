@@ -1,12 +1,26 @@
 document.addEventListener("DOMContentLoaded", function () {
     const magic8Ball = {
         answerList: [
-            "No",
+            "It is certain",
+            "It is decidedly so",
+            "Reply hazy, try again",
+            "My reply is no",
+            "Don't count on it",
+            "Ask again later",
+            "Without a doubt",
+            "Better not tell you now",
+            "My sources say no",
+            "Yes definitely",
+            "Cannot predict now",
+            "Outlook not so good",
+            "You may rely on it",
+            "Concentrate and ask again",
+            "Very doubtful",
+            "As I see it, yes",
+            "Most likely",
+            "Outlook good",
             "Yes",
-            "I don't think so...",
-            "Of course!",
-            "Indubitably",
-            "In your dreams.",
+            "Signs point to yes",
         ],
     };
 
